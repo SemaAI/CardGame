@@ -1,0 +1,19 @@
+﻿  Card.cpp
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(57): warning C4018: '<=': signed/unsigned mismatch
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(64): warning C4018: '<': signed/unsigned mismatch
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(75): warning C4018: '<=': signed/unsigned mismatch
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(104): warning C4018: '<': signed/unsigned mismatch
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(82): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(87): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(92): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(98): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(103): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(114): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+h:\문서\세마고\rande\r-e-tcg\tcg_re\tcg reworked\card.cpp(155): warning C4018: '<': signed/unsigned mismatch
+  TCG Reworked.vcxproj -> H:\문서\세마고\RandE\r-e-tcg\TCG_Re\Debug\TCG Reworked.exe
